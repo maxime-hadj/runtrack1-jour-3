@@ -1,0 +1,71 @@
+body {
+	background-color: darkred;
+	color: gray;
+	font-size: 1.1em;
+}
+
+h1 {
+    color: maroon; 
+	text-align: center; 
+	font-size: 45px; 
+	border-style: double;
+	font-style: initial;
+	font-weight: bolder;
+	text-decoration: underline;
+	background-image: linear-gradient(180deg, #fff, #ddd 40%, #ccc)
+}
+
+p {
+	text-align: left;
+	font-size: 22px;
+	font-style: normal;
+}
+
+li {
+	font-size: 18px;
+	font-style: normal;
+}
+
+.p1 {
+	text-align: center;
+	font-weight: bold;
+	color: darkorange;
+}	
+
+.p2 {
+	color: black;
+}
+
+.p3 {
+	color: silver;
+	text-decoration: underline;
+}
+
+div {
+	width: 15em;
+    border: 5px solid #333;
+    box-shadow: 6px 6px 5px #444;
+    padding: 8px 12px;
+    background-image: linear-gradient(180deg, #fff, #ddd 40%, #ccc);
+    float: right;
+    opacity: 0.5;
+}
+
+.i1 {
+	color: floralwhite;
+}
+.i2 {
+	color: floralwhite;
+}
+.i3 {
+	color: floralwhite;
+}
+.i4 {
+	color: floralwhite;
+}
+.i5 {
+	color: floralwhite;
+}
+.i6 {
+	color: floralwhite;
+}

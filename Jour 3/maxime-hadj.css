@@ -1,0 +1,74 @@
+body {
+	background-color: darkblue;
+	color: olivedrab;
+	font-size: 1.1em;
+}
+
+h1 {
+	color: indianred; 
+	text-align: center; 
+	font-size: 45px; 
+	border-style: double;
+	font-weight: bolder;
+	background-image: linear-gradient(180deg, #fff, #ddd 40%, #ccc)
+}
+
+p {
+	text-align: left;
+	font-size: 22px;
+	font-style: normal;
+}
+
+li {
+	font-size: 18px;
+	font-style: normal;
+}
+
+.p1 {
+	text-align: center;
+	font-weight: bold;
+	color: cornsilk;
+	text-decoration: underline;
+}	
+
+.p2 {
+	color: darkorchid;
+}
+
+.p3 {
+	color: crimson;
+}
+
+div {
+	width: 15em;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-image: linear-gradient(180deg, #fff, #ddd 40%, #ccc);
+  float: right;
+}
+
+.i1 {
+	color: brown;
+}
+.i2 {
+	color: brown;
+}
+.i3 {
+	color: brown;
+}
+.i4 {
+	color: brown;
+}
+.i5 {
+	color: brown;
+}
+.i6 {
+	color: brown;
+}
+
+
+
+
+
+
